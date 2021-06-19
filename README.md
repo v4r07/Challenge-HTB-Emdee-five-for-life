@@ -1,2 +1,1 @@
-# Challenge-HTB---Emdee-five-for-life
-Voici le script qui va vous permettre de réussir le challenge de HackTheBox "Emdee five for life", bien sûr si je le poste c'est pour des fins éducatives, je suis actuellement en train de me former au Python j'ai donc fait ce challenge merci de ne pas copier bêtement sans réfléchir.
+Here is the script that will allow you to pass the HackTheBox challenge "Emdee five for life", of course if I post it is for educational purposes, I am currently training in Python so I made this challenge thank you not to copy stupidly without thinking.
